@@ -1,0 +1,3 @@
+[submodule "src/BBlog"]
+	path = src/BBlog
+	url = https://github.com/leoBitto/Django-BBlog.git
