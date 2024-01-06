@@ -44,9 +44,7 @@ INSTALLED_APPS = [
     # add here the app names
     'website',
     'fontawesomefree',
-    'BBlog',
-    'django_quill'
-    
+    'menu_management',
 ]
 
 MIDDLEWARE = [
