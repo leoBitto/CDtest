@@ -1,0 +1,3 @@
+[submodule "src/calendar"]
+	path = src/calendar
+	url = https://github.com/leoBitto/Django-calendar.git
