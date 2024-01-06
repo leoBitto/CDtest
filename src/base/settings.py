@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'website',
     'fontawesomefree',
     'BBlog',
+    'django_quill'
     
 ]
 
