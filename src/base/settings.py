@@ -44,7 +44,7 @@ INSTALLED_APPS = [
     # add here the app names
     'website',
     'fontawesomefree',
-    'calendar',
+    'BBlog',
     
 ]
 
